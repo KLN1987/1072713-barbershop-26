@@ -2,7 +2,7 @@
 
 * Студент: [Лев Карпов](https://up.htmlacademy.ru/htmlcss/26/user/1072713).
 
-* Наставник: [Наталья Рыжова] (https://htmlacademy.ru/profile/id418965)
+* Наставник: [Наталья Рыжова](https://htmlacademy.ru/profile/id418965)
 
 ---
 
